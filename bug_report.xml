@@ -1,0 +1,8 @@
+<xml>
+  <Issue_title>500 Server error when creating a review</Issue_title>
+  <Priority>High</Priority>
+  <Severity>Blocker </Severity>
+  <Created_by>Daria Grishina</Created_by>
+  <Steps_to_reproduce>1.Open the admin panel; 2.Select the Company item in the menu; 3.Click the 'Create Record' button" </Steps_to_reproduce>
+  <Expected_result>The review creation page is displayed </Expected_result>
+  <Actual_result>500 server error</Actual_result>
